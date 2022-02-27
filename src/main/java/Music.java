@@ -1,4 +1,4 @@
-public class Music extends X {
+public class Music extends PlaylistElement {
 
     private String artist;
 

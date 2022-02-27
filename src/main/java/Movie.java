@@ -1,4 +1,4 @@
-public class Movie extends X {
+public class Movie extends PlaylistElement {
 
 
     public Movie(String title) {
